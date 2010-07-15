@@ -1,5 +1,5 @@
 // $Id: INSTALL.txt,v 1.61.2.4 2008/07/09 19:15:59 goba Exp $
-Hello Git
+Hello Git ABC
 CONTENTS OF THIS FILE
 ---------------------
 
